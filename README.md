@@ -1,14 +1,12 @@
 # Renuka rattan-e13572/22BCS_NTPP_DL-901-A
 
-# ASSIGNMENT-4<br>(Sorting and Searching)
+# ASSIGNMENT-5<br>(Trees)
 
 # Easy Problem:
-https://leetcode.com/problems/merge-sorted-array/<br>
+Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/<br>
 # Medium Problem:
-https://leetcode.com/problems/kth-largest-element-in-an-array/<br>
-# Hard Problems:
-https://leetcode.com/problems/search-a-2d-matrix-ii/<br>
-https://leetcode.com/problems/median-of-two-sorted-arrays/<br>
+Binary Tree Inorder Traversal: https://leetcode.com/problems/binary-tree-inorder-traversal/<br>
+Construct Binary Tree from Inorder and Postorder Traversal: https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 
 
 
